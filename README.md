@@ -23,3 +23,9 @@ this is front end project by using reactjs
 ![taj mahal](https://images.theconversation.com/files/228805/original/file-20180723-189308-12b3agf.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop)
 
 [google link](https://www.google.com/)
+
+# To write a program in any other programming language
+~~~python
+def fun:
+ print("hai")
+ ~~~
