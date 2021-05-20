@@ -29,3 +29,7 @@ this is front end project by using reactjs
 def fun:
  print("hai")
  ~~~
+ table 1 | table 2
+------------ | -------------
+table body 1 |   table body 2
+Content in column 1 | Content column 2
